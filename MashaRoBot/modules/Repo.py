@@ -6,20 +6,20 @@ from MashaRoBot.conf import get_str_key
 from MashaRoBot import pbot
  
  # pls don't delete
-REPO_TEXT = "**Thanimai [BOT](https://telegra.ph/file/526ed899597d7827474a1.jpg) will Make Your Groups Secured And it's have a lot of fun features (:  ! \n\n↼ Owner ⇀ : 『 [Telegram pro](t.me/TheTelegrampro) 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Recently\n╰──────────────\n\n»»» @THANIMAIBOTS «««"
+REPO_TEXT = "**PHOENIX [BOT](https://telegra.ph/file/6502c7fa93135c478e5a2.jpg) will Make Your Groups Secured And it's have a lot of fun features (:  ! \n\n↼ Owner ⇀ : 『 [Telegram pro](t.me/TheTelegrampro) 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Recently\n╰──────────────\n\n»»» @THANIMAIBOTS «««"
   
 BUTTONS = InlineKeyboardMarkup(
       [[
-        InlineKeyboardButton("ʀᴇᴘᴏꜱɪᴛᴏʀʏ", url=f"https://github.com/proTamizhan/thanimaibot"),
-        InlineKeyboardButton("Gɪᴛʜᴜʙ", url=f"https://github.com/proTamizhan"),
+        InlineKeyboardButton("💥ADD YOUR GROUP💥", url=f"https://github.com/proTamizhan/thanimaibot"),
+        InlineKeyboardButton("💥STATUS💥", url=f"https://t.me/phoenixcreatio"),
       ],[
-        InlineKeyboardButton("ᴏᴡɴᴇʀ ❣️", url="https://t.me/TheTelegrampro"),
-        InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/thanimaisupport"),
-       InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Kittu_the_criminall"),
+        InlineKeyboardButton("ᴏᴡɴᴇʀ 😈", url="https://t.me/Jaihindupuramking"),
+        InlineKeyboardButton("💥ꜱᴜᴘᴘᴏʀᴛ💥", url="https://t.me/phoenixbotspport"),
+       InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Jaihindupuramking"),
       ],[
-        InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇꜱ", url="https://t.me/THANIMAIBOTS"),
-        InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/ctzfamily"),
-       InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Sarbudeen786"),
+        InlineKeyboardButton("💥ᴜᴘᴅᴀᴛᴇꜱ💥", url="https://t.me/phoenixrules1"),
+        InlineKeyboardButton("😈ᴅᴇᴠᴇʟᴏᴘᴇʀ😈", url="https://t.me/jaihindupuram_king"),
+       InlineKeyboardButton("💥GROUP 💥", url="https://t.me/PHOENIX_CHAT_TAMIL"),
       ]]
     )
   
