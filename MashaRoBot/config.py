@@ -21,13 +21,13 @@ class Config(object):
     EVENT_LOGS =  -1001547905195
 
     ALLOW_CHATS = "True"
-    SQLALCHEMY_DATABASE_URI = 'ELEPHAT OR HEROKU DB URL'  
+    SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = None
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  
+    SPAMWATCH_API = "snRLLgUwXrwWw_2Qy8nmUbkmKfLf9IHH4rbNGM3PrWSk4XNt7EY~FgzJcEcAXcnL"  
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
     BOT_ID = "2084060024"
     
