@@ -41,10 +41,10 @@ class Config(object):
     WOLVES = get_user_list('elevated_users.json', 'whitelists')
     DONATION_LINK = None  # EG, paypal
     CERT_PATH = None
-    PORT = 5000
+    PORT = 10
     DEL_CMDS = True  #Delete commands that users dont have access to, like delete /ban if a non admin uses it.
     STRICT_GBAN = True
-    WORKERS = 8  # Number of subthreads to use. Set as number of threads your processor uses
+    WORKERS = 100  # Number of subthreads to use. Set as number of threads your processor uses
     BAN_STICKER = ''  # banhammer marie sticker id, the bot will send this sticker before banning or kicking a user in chat.
     ALLOW_EXCL = True  # Allow ! commands as well as / (Leave this to true so that blacklist can work)
     CASH_API_KEY = 'awoo'  # Get your API key from https://www.alphavantage.co/support/#api-key
